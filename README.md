@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Tumi👋🏾</h1>
-<h3 align="center">A passionate junior front-end developer and UI designer from South Africa,</h3>
+<h3 align="center">A passionate front-end developer and UI designer from South Africa,</h3>
 <img align="center" alt="Coding" width="400" src="https://propulsive.in/assets/img/service-icon/service-dtls.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itumeleng-m" alt="itumeleng-m" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itumelengm__" target="blank"><img src="https://img.shields.io/twitter/follow/itumelengm__?logo=twitter&style=for-the-badge" alt="itumelengm__" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, C# and Swift**
+- 🌱 I’m currently learning **React, Node.js and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
